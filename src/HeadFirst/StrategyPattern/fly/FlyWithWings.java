@@ -1,4 +1,4 @@
-package duckP.fly;
+package HeadFirst.StrategyPattern.fly;
 
 public class FlyWithWings implements FlyBehavior{
     public void fly(){
